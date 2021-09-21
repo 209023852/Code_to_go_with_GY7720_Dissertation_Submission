@@ -15,3 +15,15 @@ This is the GitHub repository that goes with student 209023852's Dissertation su
 # Licences 
 
 All data used in this study is open source data from either govermental or Voulenteer Geographical Information portals. Below is a list of the input data used within this study, as well as the open source licence that is attributed to the data. This information along with the access infroamtion will also be found in the README file in the data folder. 
+
+## California State Geoportal 
+Creative Commons Attribution
+
+## California Open Data
+Open Goverment Data Act
+
+## OpenStreetMap through OHSOME
+Open Data Commons Open Database License
+
+## iNatuarlist 
+(Creative Commons Attribution-NonCommercial 4.0 International)[https://creativecommons.org/licenses/by-nc/4.0/legalcode]
