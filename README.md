@@ -8,14 +8,9 @@ This section contains the information on where all input data was sourced as wel
 
 ## 2. Data Collection
 This section contains all the code used to use the rinat API and the oshome API to access the iNaturalist and OpenStreetMap data used in this study. The code will also contain the information on the data tidying approaches used to ensure no sensitive or unnessisary information was removed. 
-### 2.1 iNaturalist
-### 2.2 OpenStreetMap
 
 ## 3. Data Analysis 
 The data analysis section contains all the code used to preform the quaity checks, spatial autocorrelationa nd fuzzy clustering on the data collected in section 2. 
-### 3.1 Quality Checks
-### 3.2 Spatial Autocorrelation
-### 3.3 Fuzzy c-mean Clustering
 
 # Licences 
 
