@@ -4,10 +4,15 @@ This is the GitHub repository that goes with student 209023852's Dissertation su
 
 # Contents 
 ## 1. Data 
+This section contains the information on where all input data was sourced as well as a copy of the open source licences used that can also bw found below. 
+
 ## 2. Data Collection
+This section contains all the code used to use the rinat API and the oshome API to access the iNaturalist and OpenStreetMap data used in this study. The code will also contain the information on the data tidying approaches used to ensure no sensitive or unnessisary information was removed. 
 ### 2.1 iNaturalist
 ### 2.2 OpenStreetMap
+
 ## 3. Data Analysis 
+The data analysis section contains all the code used to preform the quaity checks, spatial autocorrelationa nd fuzzy clustering on the data collected in section 2. 
 ### 3.1 Quality Checks
 ### 3.2 Spatial Autocorrelation
 ### 3.3 Fuzzy c-mean Clustering
@@ -22,7 +27,7 @@ All data used in this study is open source data from either govermental or Voule
 ## California Open Data
 [Open Government Data Act](https://www.congress.gov/bill/115th-congress/house-bill/4174/text#toc-H8E449FBAEFA34E45A6F1F20EFB13ED95)
 
-## OpenStreetMap through OHSOME
+## OpenStreetMap
 [Open Data Commons Open Database License](https://opendatacommons.org/licenses/odbl/)
 
 ## iNatuarlist 
