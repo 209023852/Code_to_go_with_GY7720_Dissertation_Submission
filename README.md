@@ -1,4 +1,4 @@
-# GY7720
+# R Code to go with student 209023852's Dissertation submission for the moduile GY7720
 
 This is the GitHub repository that goes with student 209023852's Dissertation submission for the moduile GY7720 as apart of the [University of Leicester](https://le.ac.uk) [Geographical Information Science MSc](https://le.ac.uk/courses/geographical-information-science-msc/2021) course. This repository contains all the code used to obtain, tidy and analysis the data explained within the study. For data secutrity reasons all data used within this study has been removed and replaced with the access links and information found in the README file in the data folder. 
 
